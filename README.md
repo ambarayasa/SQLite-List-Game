@@ -1,4 +1,4 @@
-### Pemrograman Mobile
+### Pemrograman Mobile Lanjutan
 SQLite - List Game
 ```
 Nama  : I Gede Nyoman Ambara Yasa
